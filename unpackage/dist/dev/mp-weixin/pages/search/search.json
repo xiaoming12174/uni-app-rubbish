@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "搜索历史",
+  "usingComponents": {
+    "zy-search": "/components/zy-search/zy-search"
+  }
+}
